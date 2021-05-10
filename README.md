@@ -29,7 +29,7 @@ Wiring is pretty simple:
 
 ## Licensing
 
-This project is licensed under the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/2.0/). 
+This project is licensed under the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 It makes uses of code available from: [https://create.arduino.cc/projecthub/tylerpeppy/25-khz-4-pin-pwm-fan-control-with-arduino-uno-3005a1](https://create.arduino.cc/projecthub/tylerpeppy/25-khz-4-pin-pwm-fan-control-with-arduino-uno-3005a1)
 
